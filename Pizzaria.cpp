@@ -2,6 +2,8 @@
 using namespace std;
 # define INF 2147483647
 
+// Problem finded at the page https://www.thehuxley.com/problem/562
+
 int total=0;
 int n,m,t,u1,v1,c,k,x,caso=1;
 typedef pair<int, int> iPair;
@@ -12,19 +14,19 @@ int main()
     while(t){
         t--;
         scanf("%d %d", &n, &m);
-        list< pair<int, int> > *adj;
+        list< pair<int, int> > *adj; 
         adj = new list<iPair> [n];
 
-        for(int i=0; i<m; i++){
+        for(int i=0; i<m; i++){     //loop used for make 
             scanf("%d %d %d", &u1,&v1,&c);
-            adj[u1-1].push_back(make_pair(v1-1, c));
+            adj[u1-1].push_back(make_pair(v1-1, c)); 
             adj[v1-1].push_back(make_pair(u1-1, c));
         }
         priority_queue< iPair, vector <iPair> , greater<iPair> > pq;
         vector<int> dist(n, INF);
         dist[0] = 0;
         pq.push(make_pair(0, 0));
-        while (!pq.empty()){
+        while (!pq.empty()){      //The djkistra algorithm begins here 
             int u = pq.top().second;
             pq.pop();
             list< pair<int, int> >::iterator i;
