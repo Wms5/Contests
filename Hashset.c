@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+//problem finded at https://www.thehuxley.com/problem/533
+
 struct NO{
 	int valor;
 	struct NO *next;
