@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define DEBUG 0
 
 struct NO{
 	int valor;
@@ -61,9 +60,6 @@ int ad(int valor, int op){
 	cur = (t[op]).head;
 	for(cur; cur!=NULL;cur = cur->next){
 		num++;
-		if (DEBUG){
-			printf("%d %d\n", cur->valor, valor);
-		}
 		if(cur->valor == valor){
 			return 0;
 		}
@@ -93,9 +89,6 @@ int del(int valor, int op){
 		cur=(t[op]).head;
 		while (cur!=NULL){
 			++num;
-			if (DEBUG == 2){
-				printf("%d %d\n", cur->valor, valor);
-			}
 			if(cur->valor == valor){
 				ant->next=cur->next;
 				free(cur);
@@ -119,9 +112,6 @@ int haas(int valor, int op){
 		cur = (t[op]).head;
 		while(cur!= NULL){
 			num++;
-			if (DEBUG){
-				printf("%d %d\n", cur->valor, valor);
-			}
 			if(cur->valor == valor ){
 				return 1;
 			}
