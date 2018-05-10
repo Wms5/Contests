@@ -17,7 +17,7 @@ int main()
         list< pair<int, int> > *adj; 
         adj = new list<iPair> [n];
 
-        for(int i=0; i<m; i++){     //loop used for make 
+        for(int i=0; i<m; i++){     //loop used for to fill the adjacency list
             scanf("%d %d %d", &u1,&v1,&c);
             adj[u1-1].push_back(make_pair(v1-1, c)); 
             adj[v1-1].push_back(make_pair(u1-1, c));
