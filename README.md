@@ -25,6 +25,6 @@ This Repository has algorithms about those subjects:
 
 
 ###### Contact
-![alt text](https://github.com/Wms5/Contests/blob/master/linked.png?raw=true)/ [wilkinson-maciel](https://www.linkedin.com/in/wilkinson-maciel)
+[![alt text](https://github.com/Wms5/Contests/blob/master/linked.png?raw=true)](https://www.linkedin.com/in/wilkinson-maciel)/ [wilkinson-maciel](https://www.linkedin.com/in/wilkinson-maciel)
 
 
