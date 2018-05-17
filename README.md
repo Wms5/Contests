@@ -14,10 +14,17 @@ This Repository has algorithm´s about those subjects:
 * Heap
 * etc
 
+## Have a nice journey!!
+
+
+
+
+
+
 
 
 
 ###### Contact
 [![alt text](https://github.com/Wms5/Contests/blob/master/linked.png?raw=true "Linkedin")](www.linkedin.com/in/wilkinson-maciel)/[wilkinson-maciel](wilkinson-maciel)
 
-## Have a nice journey!!
+
