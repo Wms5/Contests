@@ -6,7 +6,7 @@ upload codes from other online constest's.
 
 
 This Repository has algorithm´s about those subjects:
-======
+------
 * Sort Algorithm
 * Hashtable
 * Dijkstra´s Algorithm
