@@ -10,4 +10,7 @@ upload codes from other online constest's.
 * Dijkstra´s Algorithm
 * Depth-first Search
 * Heap
-* Graph
+* etc
+
+## Have a nice journey in my code´s universe!!
+
