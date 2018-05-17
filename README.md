@@ -25,6 +25,6 @@ This Repository has algorithms about those subjects:
 
 
 ###### Contact
-/ [wilkinson-maciel](www.linkedin.com/in/wilkinson-maciel)
+/ [wilkinson-maciel](https://www.linkedin.com/in/wilkinson-maciel)
 
 
