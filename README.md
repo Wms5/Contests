@@ -1,11 +1,11 @@
 # Contests
-Repository created for share some contest's codes. 
+Repository created for share some contests codes. 
 
-Firstly, i've uploaded some codes used to solve problems in [The Huxley](https://www.thehuxley.com/), posteriorly i'll 
-upload codes from other online constest's.
+Firstly, i've uploaded some codes used to solve problems in [The Huxley](https://www.thehuxley.com/). Posteriorly, i'll 
+upload codes from other online constests.
 
 
-This Repository has algorithm´s about those subjects:
+This Repository has algorithms about those subjects:
 
 * Sort Algorithm
 * Hashtable
