@@ -18,4 +18,4 @@ This Repository has algorithm´s about those subjects:
 
 
 
-![alt text](https://brand.linkedin.com/etc/designs/linkedin/katy/global/clientlibs/img/default-share.png "Linkedin")
+![alt text](https://static1.squarespace.com/static/55d24797e4b0e20eb50df35b/t/59f0c9baf6576e4d1a72c40b/1508952685331/linkedin.jpg "Linkedin")
