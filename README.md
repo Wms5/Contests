@@ -18,4 +18,4 @@ This Repository has algorithm´s about those subjects:
 
 
 
-[My Linkedin contact](![alt text](https://yt3.ggpht.com/a-/AJLlDp0mRnZ39CP7Z0TUWTkjT5WckBX8fB4BTfMAMg=s900-mo-c-c0xffffffff-rj-k-no))
+![alt text](https://brand.linkedin.com/etc/designs/linkedin/katy/global/clientlibs/img/default-share.png"Linkedin")
