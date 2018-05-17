@@ -14,8 +14,10 @@ This Repository has algorithm´s about those subjects:
 * Heap
 * etc
 
-## Have a nice journey in my code´s universe!!
 
 
 
+## Contact
 [![alt text](https://static1.squarespace.com/static/55d24797e4b0e20eb50df35b/t/59f0c9baf6576e4d1a72c40b/1508952685331/linkedin.jpg "Linkedin")](https://www.linkedin.com/in/wilkinson-maciel-a5679aa4/)
+
+## Have a nice journey!!
